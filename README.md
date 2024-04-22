@@ -1,4 +1,4 @@
-## Olá eu sou a Arthur Rocha, desenvolvedor WEB e Aplicativos !
+## Olá eu sou a Arthur Rocha, desenvolvedor de software !
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
